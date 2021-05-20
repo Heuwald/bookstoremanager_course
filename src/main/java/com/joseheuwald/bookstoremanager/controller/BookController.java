@@ -10,6 +10,7 @@ public class BookController {
 
 	@GetMapping
 	public String hello() {
+		//teste
 		return "Hello Bookstore Manager";
 	}
 }
